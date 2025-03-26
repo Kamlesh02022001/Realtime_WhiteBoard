@@ -23,14 +23,6 @@ Clone the repository:
 git clone https://github.com/Pep-DEV101/PepBoard.git
 cd PepBoard
 
-Install dependencies:
-
-npm install
-
-Start the server:
-
-npm start
-
 Open your browser and navigate to:
 
 http://localhost:3000
