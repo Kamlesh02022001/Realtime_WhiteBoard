@@ -74,11 +74,5 @@ Commit your changes
 
 Push and open a PR
 
-📄 License
 
-This project is licensed under the ISC License. See LICENSE for details.
-
-📝 Author
-
-Developed with ❤️ by Pep-DEV101 🚀
 
